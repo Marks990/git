@@ -6,6 +6,12 @@ Dependencies
 m4
 http://archive.linuxfromscratch.org/lfs-museum/5.1-pre1/LFS-BOOK-5.1-PRE1-HTML/chapter06/m4.html
 
+automake
+https://www.gnu.org/software/automake/automake.html
+
+Libtool
+http://mirrors.syringanetworks.net/gnu/libtool/
+
 autoconf
 https://www.gnu.org/software/autoconf/
 
